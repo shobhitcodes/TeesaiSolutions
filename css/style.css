@@ -3,7 +3,7 @@
   Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
-*/
+  */
 
 /*--------------------------------------------------------------
 # General
@@ -200,6 +200,9 @@ h6 {
   padding: 0;
   margin: 7px 0;
   max-height: 26px;
+  min-height: 60px;
+  min-width: 150px;
+  margin-top: -10px;
 }
 
 .main-pages {
